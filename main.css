@@ -1,0 +1,27 @@
+body {
+	background-color: teal;
+}
+
+.image {
+	width: 25%;
+	height: 25%;
+}
+
+#kat-koral {
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+}
+
+#kat {
+	align-content: center;
+
+}
+
+.name {
+	text-align: center;
+}
+
+.color {
+	text-align: center;
+}
